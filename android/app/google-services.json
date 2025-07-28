@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155063187248",
+    "project_id": "lomakham-management-system",
+    "storage_bucket": "lomakham-management-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155063187248:android:a011ad4cd81c4122c43af5",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvpEyxaeGqQfzDBflnldLgy2qfm4jhHRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
