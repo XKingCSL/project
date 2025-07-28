@@ -18,7 +18,6 @@ class MyApp extends StatefulWidget {
   State<MyApp> createState() => _MyAppState();
 }
 
-// This widget is the root of your application
 class _MyAppState extends State<MyApp> {
   bool isDarkMode = true;
 
